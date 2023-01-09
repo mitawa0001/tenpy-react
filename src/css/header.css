@@ -1,0 +1,49 @@
+.heading-one-main-1 {
+    background-color: #F6623E;
+}
+.header-one-main {
+    display: flex;
+    flex-direction: row;
+    padding: 15px 0px;
+    width: 100%;
+    justify-content: space-between;
+}
+.heading-first-desc {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.heading-two-desc {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    border-right: solid 1px #fff;
+    padding-right: 15px;
+
+}
+.heading-country-logo >img{
+  
+    margin-left: 10px;
+    width: 60%;
+}   
+.header-two-main{
+    padding: 8px 0px;
+}
+.user-name{
+    font-weight: 600;
+    font-size: 16px;
+}
+.nav-link{
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: jost;
+    text-transform: uppercase;
+    color: #111 !important;
+    padding: 0px 15px !important;
+}
+.active{
+    color: #F6623E;
+}

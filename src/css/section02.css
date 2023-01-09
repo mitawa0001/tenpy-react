@@ -1,0 +1,31 @@
+.main-box-section03{
+    background-color: #FFF8F6;
+}
+.section03-heading{
+    font-family: josh;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 72px;        
+    color: #F6623E;
+}
+.section-desc-alpha{
+    font-family: josh;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #454545;
+    padding-right: 0%;  
+
+}
+.sub-line{
+    font-size: 18px;
+    font-weight: 700;
+    width: 80%;
+    line-height: 2;
+}
+.browser{
+    background: transparent !important;
+    border: solid 2px #F6623E !important;
+    border-radius: 0px;
+    margin-top: 2rem;
+}
