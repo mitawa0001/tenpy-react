@@ -8,8 +8,8 @@ function section02() {
     <>
       {/* first card */}
       <div className="container-fluid my-5 main-box-section03">
-        <div className="container d-flex">
-          <div className="col-6  py-5 ">
+        <div className="container d-flex main-rusty-box">
+          <div className="col-12 py-5 col-sm-6">
             <h2 className="w-75 section03-heading">Rusty</h2>
             <p className="section-desc-alpha pe-5">
               Chiguru Farms, Bilikal Forest, Karnataka

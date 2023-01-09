@@ -45,3 +45,19 @@
     border-radius: 0px;
     margin-top: 0rem;
 }
+.we-got-box{
+    width:500px;
+    height:550px;
+}
+
+@media only screen and (max-width: 600px) {
+    .we-got-box {
+        width: 320px;
+        height: 450px;
+    }
+    .for-main-box-we-are{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+  }

@@ -1,0 +1,59 @@
+.banner-main{
+    position: relative;
+}
+.banner-img {
+    width: 100%;
+    /* height: 100% !important; */
+}
+.banner-contant-box{
+    position: absolute;
+    top: 120px;
+    left: 60%;
+
+}
+.banner-contant-box >h3{
+    color: #F6623E;
+}
+.banner-contant-box >h1{
+    color: #000;
+    font-weight: 600;
+    font-size: 56px;
+    margin-bottom: 14px;
+}
+.btn-warning{
+    background-color: #F6623E;
+    border-radius: 0px;
+    color: #fff;
+    padding: 7px 20px;
+}
+.banner-desc{
+    color: #454545;
+    font-weight: 400;
+    font-size: 16px;
+    
+}
+.main-ab{
+    position: absolute;
+    width: 100% ;
+    padding: 200px;
+    background-image:"https://images.unsplash.com/photo-1520209759809-a9bcb6cb3241?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aW1nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60";
+}
+.banner-img-2{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
+.shadow-img{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .d-block{
+        height: 350px;
+    }
+  }

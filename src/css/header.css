@@ -47,3 +47,39 @@
 .active{
     color: #F6623E;
 }
+.for-mob{
+    display: none;
+}
+.for-desktop{
+    display: block;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+}
+button.navbar-toggler.collapsed {
+    background: #f6623e;
+}
+button.navbar-toggler {
+    background: #f6623e;
+}
+.me-auto {
+    margin: 5px auto !important;
+    margin-right: auto!important;
+    display: flex;
+    align-items: center;
+}
+.nav-link{
+    margin-bottom: 7px;
+}
+@media only screen and (max-width: 600px) {
+    .for-mob{
+        display: block;
+    }
+    .for-desktop{
+        display: none;
+    }
+  }

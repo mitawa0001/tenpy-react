@@ -10,18 +10,17 @@ function section02() {
     <>
       {/* first card */}
       <div className="container-fluid mt-5 main-box-section03">
-        <div className="container d-flex">
-          <div className="col-6 mr-2">
+        <div className="container d-flex for-main-box-we-are">
+          <div className="col-12 mr-2 col-sm-6">
             <img
-              className="mb-2 py-5"
+              className="mb-2 py-5 we-got-box"
               src={common}
               alt="banner img"
-              width="500px"
-              height="550px"
+              
             ></img>
           </div>
 
-          <div className="col-6  py-5 ">
+          <div className="col-12 col-sm-6  py-5 ">
             <h2 className="w-75 section03-heading">We got your back.</h2>
             <p className="section-desc-alpha pe-5">
               Are the dates already full on the dates you want to book? Do not

@@ -2,7 +2,7 @@ import Carousel from 'react-bootstrap/Carousel';
 import img44  from "../image/img44.jfif";
 import slider22  from "../image/slider22.jfif";
 import slider44  from "../image/slider33.jfif";
-
+import "../css/common.css"
 function homebanner() {
   return (
     <Carousel fade>
