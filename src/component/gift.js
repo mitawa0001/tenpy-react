@@ -56,8 +56,76 @@ function gift() {
                     </p>
                   </div>
                 </div>
+                
               </div>
             </Container>
+            <div
+        className="ultimate"
+        style={{ textAlign: "center", margin: "20px 350px" }}
+      >
+        <h3>Unlimited chill space</h3>
+        <h4>
+          Move past the ordinary hotel with thousands of rooms and choose
+          uniquely crafted tiny living spaces that help you focus on yourself.
+          Get away from the concrete jungle to find yourself in the wild.{" "}
+        </h4>
+      </div>
+      <div
+        className="ultimate"
+        style={{ textAlign: "center", margin: "20px 350px" }}
+      >
+        <h3>Dine with us</h3>
+        <h4>
+          All your meals are covered by us so all you have to do is relax and
+          enjoy. Locally prepared food, a barbecue around a campfire sounds
+          perfect doesn’t it? In case you want something “extra”, you can also
+          put your masterchef skills to the test by doing your own barbeque!
+        </h4>
+      </div>
+      <div
+        className="ultimate"
+        style={{ textAlign: "center", margin: "20px 350px" }}
+      >
+        <h3>Hike with us</h3>
+        <h4>
+          Let nature cast its magic as you walk around beautiful trees and
+          birds! They say that even the rustling of leaves have a healing effect
+          on our bodies. Why not give it a try?{" "}
+        </h4>
+      </div>
+      <div
+        className="ultimate"
+        style={{ textAlign: "center", margin: "20px 350px" }}
+      >
+        <h3>Focus on Yourself</h3>
+        <h4>
+          Leave that phone behind, forget your work emails and focus on doing
+          nothing. This trip is for you to take a step back, detox and relax.{" "}
+        </h4>
+      </div>
+      <div
+        className="ultimate"
+        style={{ textAlign: "center", margin: "20px 350px" }}
+      >
+        <h3>Read your heart out</h3>
+        <h4>
+          We know that sometimes it can be hard to find the time to get your
+          reading on because of how busy our lives get. Bring a book to indulge
+          in for a couple of days or find some on our shelves. We’re sure you’ll
+          appreciate them!
+        </h4>
+      </div>
+      <div
+        className="ultimate"
+        style={{ textAlign: "center", margin: "20px 350px" }}
+      >
+        <h3>Bring a (Best)Friend</h3>
+        <h4>
+          We are proud to be a dog-friendly property and would be happy to
+          accommodate your pet for a small additional fee. Please inquire when
+          you book your stay for more information.
+        </h4>
+      </div>
           </div>
         </div>
       </>
